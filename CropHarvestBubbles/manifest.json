@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Crop Harvest Bubbles",
+  "Author": "aedenthorn",
+  "Version": "0.3.1-unofficial.1-logophile",
+  "Description": "Adds hovering bubble indicators when crops are ready to harvest.",
+  "UniqueID": "aedenthorn.CropHarvestBubbles",
+  "EntryDll": "CropHarvestBubbles.dll",
+  "MinimumApiVersion": "4.0.0-alpha",
+  "UpdateKeys": [ "" ]
+}

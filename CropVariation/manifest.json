@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Crop Variation",
+  "Author": "aedenthorn",
+  "Version": "0.2.5.1-unofficial.1-Logophile",
+  "Description": "Adds visual variation to crops",
+  "UniqueID": "aedenthorn.CropVariation",
+  "EntryDll": "CropVariation.dll",
+  "MinimumApiVersion": "4.0.0-alpha",
+  "UpdateKeys": [""]
+}
